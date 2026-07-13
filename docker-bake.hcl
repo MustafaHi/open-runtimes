@@ -9,7 +9,7 @@
 #   docker buildx bake --print node-25     # inspect resolved config
 
 variable "REGISTRY" {
-  default = "openruntimes"
+  default = "mustafahi"
 }
 
 # Set to "-rc" for release-candidate publishes
