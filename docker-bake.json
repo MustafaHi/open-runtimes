@@ -2276,7 +2276,7 @@
         "version": "./docker/empty"
       },
       "args": {
-        "BASE_IMAGE": "oven/bun:1.3.8-alpine"
+        "BASE_IMAGE": "oven/bun:1.3.14-alpine"
       },
       "platforms": [
         "linux/amd64",
